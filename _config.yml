@@ -22,7 +22,7 @@ title: The Way I See It
 email: graham@grahamhartle.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my Blog.
-  Just a mix of things that interest me. Programming, Photography, and my take on some social issues.
+  Just a mix of things that interest me. Programming, Photography, and my take on some topical issues.
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://grahamhartle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ralphsmate
