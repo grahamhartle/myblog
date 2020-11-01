@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Way I See It
-email: graham@grahamhartle.com
+email: graham@grahamhartle.online
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my Blog.
   Just a mix of things that interest me. Programming, Photography, and my take on some topical issues.
