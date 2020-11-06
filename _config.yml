@@ -23,8 +23,8 @@ email: graham@grahamhartle.online
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my Blog.
   Just a mix of things that interest me. Programming, Photography, and my take on some topical issues.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://peaceful-spence-c6a4d1.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
+url: "https://github.com/grahamhartle" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ralphsmate
 github_username:  grahamhartle
 
